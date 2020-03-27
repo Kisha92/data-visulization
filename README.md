@@ -18,5 +18,5 @@ git commit -m 'some thing'
 git push
 
 ## 效果图
-![image]app/public/result1.png
-![app/public/result1.png] https://github.com/Kisha92/data-visulization/blob/master/app/public/result2.png
+![image]https://github.com/Kisha92/data-visulization/raw/master/app/public/result1.png
+![image]https://github.com/Kisha92/data-visulization/raw/master/app/public/result2.png
