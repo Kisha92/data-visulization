@@ -18,3 +18,4 @@ git commit -m 'some thing'
 git push
 
 ## 效果图
+![图片1]https://github.com/Kisha92/data-visulization/blob/master/app/public/result1.png
